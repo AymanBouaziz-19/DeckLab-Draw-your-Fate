@@ -28,9 +28,9 @@ Built to strengthen skills in **HTTP requests**, **JSON parsing**, **API logic**
 ---
 
 ## 📁 Project Structure
-```
+
 DeckLab-DrawYourFate/ ├── src/ │   ├── main.py         # Main interactive interface │   ├── api_handler.py  # Handles connection and fetching from deck API │   ├── parser.py       # Parses JSON and extracts card data │   └── utils.py        # Helper functions (e.g., card display formatting) ├── assets/             # Sample outputs, logs, or images (optional) ├── README.md └── requirements.txt
-```
+
 ---
 
 ## 🧪 Example Usage
