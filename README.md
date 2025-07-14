@@ -1,4 +1,4 @@
-# 🃏 DeckLab – Draw Your Fate
+# 🧑‍💻🃏 DeckLab – Draw Your Fate
 
 An interactive Python tool that connects with a **card-drawing API** to generate randomized playing cards.  
 Built to strengthen skills in **HTTP requests**, **JSON parsing**, **API logic**, and **interactive terminal outputs**, DeckLab is a fusion of fun, fate, and functionality.
@@ -63,9 +63,8 @@ Sample Response:
     }
   ]
 }
+```
 
-
----
 ---
 
 ## 🧠 Extensions & Ideas
