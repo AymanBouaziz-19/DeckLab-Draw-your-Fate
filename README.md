@@ -43,7 +43,7 @@ How many cards would you like to draw? (1–5): 2
 
 🃏 Card 1: Queen of Hearts ♥️
 🃏 Card 2: 7 of Spades ♠️
-```
+
 ---
 
 ## 🌐 Live API Reference
