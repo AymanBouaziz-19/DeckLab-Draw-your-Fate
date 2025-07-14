@@ -72,9 +72,13 @@ Sample Response:
 Idea	Description
 
 🎨 Card Art Display	Render images of drawn cards (via PIL or Tkinter)
+
 🧩 Simple Card Game	Mini blackjack / war game logic
+
 💾 Save Draw History	Save cards drawn per session (CSV/JSON log)
+
 🎴 Tarot Mode (Fantasy)	Use custom deck logic or alternate decks
+
 🌍 Web Version (Streamlit)	Optional web UI to interact with deck
 
 
