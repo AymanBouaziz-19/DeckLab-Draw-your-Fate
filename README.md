@@ -66,6 +66,7 @@ Sample Response:
 
 
 ---
+---
 
 ## 🧠 Extensions & Ideas
 
